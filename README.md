@@ -1,3 +1,6 @@
-Excel Dashboard Project
-This dashboard shows sales analysis using Excel.
-Tools: Excel, Pivot Tables, Charts
+<h1>Excel Dashboard Project</h1>
+<ul>
+  <li>This dashboard shows sales analysis using Excel.</li>
+  <li>Tools: Excel, Pivot Tables, Charts</li>
+</ul>
+
